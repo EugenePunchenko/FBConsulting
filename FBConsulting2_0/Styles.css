@@ -1,0 +1,62 @@
+﻿#addform label {
+    width: 120px;
+    display: inline-block;
+}
+
+#addform input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 150px;
+}
+
+#addform select {
+    margin: 2px 0;
+    width: 154px;
+}
+#deleteform label {
+    width: 120px;
+    display: inline-block;
+}
+
+#deleteform input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 150px;
+}
+
+#chageform select {
+    margin: 2px 0;
+    width: 154px;
+}
+
+#changeform label {
+    width: 120px;
+    display: inline-block;
+}
+
+#changeform input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 150px;
+}
+
+#changeform select {
+    margin: 2px 0;
+    width: 154px;
+}
+
+button[type=submit] {
+    margin-top: 15px;
+    padding: 5px;
+}
+
+table, td, th {
+    table-layout: fixed;
+    width: 50%;
+    border: thin solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: lemonchiffon;
+    text-align: left;
+    margin: 10px 0;
+}
